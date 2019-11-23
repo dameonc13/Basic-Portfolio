@@ -1,0 +1,162 @@
+html body{
+    height: 100%;
+    margin: 0;
+    
+}
+header {
+	font-family: 'Georgia'," Times", "Times New Roman", "serif";
+    padding: 4.5%;
+    border-bottom: solid #cccccc 1px;
+    
+}
+.BckgrndColr,
+footer{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+h2{
+    color: #4aaaa5;
+
+}
+.Myname{
+    border: 3px solid #4aaaa5;
+    background-color: #4aaaa5;
+    color: white;
+    width: 20%;
+    text-align: center;
+    float: left;    
+    
+}
+
+
+/* Style for the nav element */
+nav {
+    width: 50%;
+    padding: 0.5%;
+    float: right;
+   
+}
+
+/* Style for the nav list item elements */
+nav li {
+    
+    display: inline;
+    padding: 0;
+}
+
+/* Style for the nav links element */
+nav li a {
+    
+	padding-left: 2%;
+    padding-right: 2%;
+    color : grey;
+
+	
+}
+
+.BckgrndColr{
+    background-image: url(../images/paisley.png);
+    padding: 20px 0px 150px 450px;
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+
+.container{
+    padding: 10px 10px 10px 10px;
+}
+
+section{
+    background-color: #ffffff;
+    height: 500px;
+    width : 960px;
+    position: relative;
+   
+}
+
+main{
+    background-color: #ffffff;
+    height: 500px;
+    width : 50%;
+   
+}
+
+
+footer {
+	font-size: .70em;
+    text-align: center;
+    background-color: #666666;
+    clear: both;
+    border-top: 8px solid #4aaaa5;
+}
+    
+ img{
+ 
+     float: left;
+    width: 200px;
+    height: 200px;
+    padding: 15px 15px;
+    
+
+}
+
+P{
+ 
+    
+    color : #c2bebe; 
+    line-height: 200%;
+}
+
+
+label{
+	
+	padding-right: 0.5em;
+	text alighn: right;
+	width: 7em;
+}
+
+#email,
+#fName{
+    width: 90%;
+}
+
+#message{
+    height: 250px;
+    width: 90%;
+}
+/* Style rule for btn class */
+.btn{
+    margin-bottom: 1em; 
+    background-color: #4aaaa5;
+    color : white;
+}
+
+/* Style for input,select, and textarea form element*/
+
+input,select, textarea {
+	display: block;
+	margin-bottom: 1em;
+}
+/* Style rule for label element */
+label {
+	display: block;
+} 
+/* Style rule for unordered lsit within a form */
+form  {
+    list-style-type: none;
+    color : #c2bebe;    
+    
+}
+/* style rule for chkbx */
+.chkbx {
+	display: inline-block
+}
+
+.AbvFootr,
+footer{
+    height: 50px;
+    color: white;
+    
+ 
+}
+
+

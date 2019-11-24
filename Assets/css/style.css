@@ -75,8 +75,17 @@ section{
 
 main{
     background-color: #ffffff;
-    height: 500px;
+    height: 520px;
     width : 50%;
+    position: relative;
+   
+}
+
+#Portfoliopage{
+    background-color: #ffffff;
+    height: 650px;
+    width : 50%;
+    position: relative;
    
 }
 
@@ -159,4 +168,34 @@ footer{
  
 }
 
+.box{
+    height: 150px;
+    width: 150px;
+    position: relative;
+}
 
+.box1{
+   left: 10px;
+
+}
+
+.box2{
+    left: 10px;
+}
+
+.box3{
+    
+  right: 350px;
+  top: 180px;
+
+}
+
+.box4{
+
+    left: 190px;
+}
+
+.box5{
+    top: 170px;
+    right: 170px
+}

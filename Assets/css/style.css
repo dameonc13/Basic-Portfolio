@@ -5,7 +5,7 @@ html body{
 }
 header {
 	font-family: 'Georgia'," Times", "Times New Roman", "serif";
-    padding: 4.5%;
+    padding: 4.5% 0% 4.5% 20.25%;
     border-bottom: solid #cccccc 1px;
     
 }
@@ -31,7 +31,7 @@ h2{
 
 /* Style for the nav element */
 nav {
-    width: 50%;
+    width: 70%;
     padding: 0.5%;
     float: right;
    
@@ -57,6 +57,12 @@ nav li a {
 .BckgrndColr{
     background-image: url(../images/paisley.png);
     padding: 20px 0px 150px 450px;
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+.BckgrndColrCT{
+    background-image: url(../images/paisley.png);
+    padding: 20px 0px 150px 380px;
     min-height: 100%;
     margin-bottom: -50px;
 }
